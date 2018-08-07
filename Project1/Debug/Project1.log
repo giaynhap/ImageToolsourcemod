@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\giay nhap\documents\visual studio 2015\projects\imageconvert\project1\MyForm.h(266): warning C4101: 'sB': unreferenced local variable
+c:\users\giay nhap\documents\visual studio 2015\projects\imageconvert\project1\MyForm.h(266): warning C4101: 'sG': unreferenced local variable
+c:\users\giay nhap\documents\visual studio 2015\projects\imageconvert\project1\MyForm.h(266): warning C4101: 'sR': unreferenced local variable
+  Project1.vcxproj -> C:\Users\Giay Nhap\Documents\Visual Studio 2015\Projects\ImageConvert\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Giay Nhap\Documents\Visual Studio 2015\Projects\ImageConvert\Debug\Project1.pdb (Full PDB)
